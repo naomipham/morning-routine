@@ -16,4 +16,11 @@ Is there a banana to eat for breakfast?
                 If false > wait till brunch/or when hungry to have a meal
                 If true > toast bread and spread with butter, vegemite or jam
     If true > eat banana 
-Head to bathroom to brush teeth     
+Head to bathroom to brush teeth
+Am I going somewhere today? 
+    If false > do I need to study? 
+        If false > watch netflix 
+        If true > complete study tasks for the day
+    If true > do I have work? 
+        If false > dress in causal clothes
+        If true > dress in uniform      
